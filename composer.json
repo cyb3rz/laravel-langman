@@ -3,6 +3,12 @@
     "description": "Manage language files with ease. Forked to support laravel 7",
     "keywords": ["laravel", "localization", "multilingual"],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cyb3rz/laravel-langman"
+        }
+    ],
     "authors": [
         {
             "name": "cyb3rz Vision",
