@@ -2,17 +2,11 @@
     "name": "cyb3rz/laravel-langman",
     "description": "Manage language files with ease. Forked to support laravel 7",
     "keywords": ["laravel", "localization", "multilingual"],
-    "homepage": "https://github.com/themsaid/laravel-langman",
     "license": "MIT",
     "authors": [
         {
             "name": "cyb3rz Vision",
-            "email": "smartersvision@gmail.com"
-        },
-        {
-            "name": "Mohamed Said",
-            "email": "theMohamedSaid@gmail.com",
-            "homepage": "https://themsaid.github.io"
+            "email": "cyb3rzdfdfdfdfdfdfd@gmail.com"
         }
     ],
     "require": {
