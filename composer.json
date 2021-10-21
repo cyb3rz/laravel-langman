@@ -15,12 +15,7 @@
             "email": "cyb3rzdfdfdfdfdfdfd@gmail.com"
         }
     ],
-    "require-dev": {
-        "phpunit/phpunit" : "^4.8 || ^5.0",
-        "orchestra/testbench": "~3.0",
-        "orchestra/database": "~3.0",
-        "mockery/mockery": "~0.9.4"
-    },
+
     "autoload": {
         "psr-4": {
             "Themsaid\\Langman\\": "src"
