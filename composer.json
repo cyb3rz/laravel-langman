@@ -1,13 +1,18 @@
-{     "name": "themsaid/laravel-langman",
-    "description": "Manage language files with ease.",
+{
+    "name": "cyb3rz/laravel-langman",
+    "description": "Manage language files with ease. Forked to support laravel 8",
     "keywords": ["laravel", "localization", "multilingual"],
-    "homepage": "https://github.com/themsaid/laravel-langman",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cyb3rz/laravel-langman"
+        }
+    ],
     "authors": [
         {
-            "name": "Mohamed Said",
-            "email": "theMohamedSaid@gmail.com",
-            "homepage": "https://themsaid.github.io"
+            "name": "cyb3rz Vision",
+            "email": "cyb3rzdfdfdfdfdfdfd@gmail.com"
         }
     ],
     "require": {
