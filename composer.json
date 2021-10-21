@@ -1,31 +1,27 @@
 {
-    "name": "cyb3rz/laravel-langman",
-    "description": "Manage language files with ease. Forked to support laravel 7",
+    "name": "themsaid/laravel-langman",
+    "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
+    "homepage": "https://github.com/themsaid/laravel-langman",
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/cyb3rz/laravel-langman"
-        }
-    ],
     "authors": [
         {
-            "name": "cyb3rz Vision",
-            "email": "cyb3rzdfdfdfdfdfdfd@gmail.com"
+            "name": "Mohamed Said",
+            "email": "theMohamedSaid@gmail.com",
+            "homepage": "https://themsaid.github.io"
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/support": "^8.0",
-        "illuminate/console": "^5.1 || ^6.0 || ^7.0 || ^8.0",
-        "illuminate/filesystem": "^5.1 || ^6.0 || ^7.0 || ^8.0"
+        "php": "^5.5.9 || ^7.0",
+        "illuminate/support": "~5.1",
+        "illuminate/console": "~5.1",
+        "illuminate/filesystem": "~5.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0|^9.3.3",
-        "mockery/mockery": "^1.3.1",
-        "orchestra/testbench": "6.0",
-        "orchestra/database": "~3.0"
+        "phpunit/phpunit" : "^4.8 || ^5.0",
+        "orchestra/testbench": "~3.0",
+        "orchestra/database": "~3.0",
+        "mockery/mockery": "~0.9.4"
     },
     "autoload": {
         "psr-4": {
